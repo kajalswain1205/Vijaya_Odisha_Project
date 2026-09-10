@@ -1,6 +1,6 @@
 # VIJAYA Odisha Website
 
-A responsive multi-page website redesign for **VIJAYA**, an NGO based in Odisha.
+A responsive website for **VIJAYA**, an NGO based in Odisha.
 
 ## Pages
 
@@ -41,14 +41,4 @@ vijaya_odisha_project/
         └── other site images
 ```
 
-## Run locally
 
-No build tool is required. Open `index.html` in a browser, or use VS Code Live Server.
-
-## GitHub Pages
-
-Push the complete project to GitHub and enable **GitHub Pages** from the repository settings. The site is static HTML/CSS/JavaScript and does not require a server or database.
-
-## Important
-
-The Photo Gallery page and its gallery-specific styling are kept as the dedicated gallery implementation. The other pages use `site-pages.css` so the complete website shares the same navy, cream and gold visual language without overwriting the gallery styling.
