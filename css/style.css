@@ -56,15 +56,11 @@ button {
   gap: 11px;
 }
 .brand-mark {
-  width: 39px;
-  height: 39px;
-  display: grid;
-  place-items: center;
-  border-radius: 50%;
-  background: #10264a;
-  color: #fff;
-  font-family: "Playfair Display", serif;
-  font-size: 22px;
+  width: 76px;
+  height: 48px;
+  display: block;
+  object-fit: contain;
+  object-position: center;
 }
 .brand-copy {
   display: flex;
